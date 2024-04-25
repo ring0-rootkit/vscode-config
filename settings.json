@@ -5,6 +5,7 @@
   "editor.fontFamily": "JetBrainsMono Nerd Font",
   "javascript.updateImportsOnFileMove.enabled": "always",
   "window.zoomLevel": 0.5,
+  "window.titleBarStyle": "custom",
   "workbench.colorTheme": "Rosé Pine",
   "editor.fontSize": 22,
   "editor.rulers" : [
@@ -19,6 +20,7 @@
   "editor.lineNumbers": "relative",
 
   "vim.leader": "<Space>",
+  "vim.highlightedyank.enable": true,
   "vim.useSystemClipboard": true,
   "vim.hlsearch": true,
   "vim.normalModeKeyBindingsNonRecursive": [
@@ -92,5 +94,6 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "workbench.activityBar.location": "hidden",
-  "workbench.startupEditor": "none"
+  "workbench.startupEditor": "none",
+  "window.customTitleBarVisibility": "auto"
 }
